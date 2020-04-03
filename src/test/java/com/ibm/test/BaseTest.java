@@ -10,6 +10,7 @@ public class BaseTest {
 	{
 		System.out.println("chek");
 		Assert.assertEquals("myaccount","myaccount");
+		System.out.println("added the line in GIT");
 	}
 
 }
